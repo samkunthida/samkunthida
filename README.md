@@ -15,7 +15,7 @@ I’m especially passionate about game development and have a huge desire to cra
 📮 Contact Me
 <a href="mailto:kunthidakhlongkhlaew@gmail.com" target="_blank">kunthidakhlongkhlaew@gmail.com</a>
 
-💼About My Experiences
+💼 About My Experiences
 <a href="https://www.linkedin.com/in/kunthida-khlongkhlaew-5b6706324/" target="_blank">linkedIn</a>
 
 <!--
