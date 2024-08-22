@@ -1,8 +1,10 @@
-# Sam Kunthida 👾
-**`Developer | UX/UI Designer | Content Creator`**
+![I am GitHub Readme Generator's creator](Banner01.jpg)
 
-📮 To reach me:
-<a href="mailto:kunthidakhlongkhlaew@gmail.com" target="_blank">kunthidakhlongkhlaew@gmail.com</a>
+# Sam Kunthida 👾 
+**`Developer | UX/UI Designer`**
+
+📮
+ <a href="mailto:kunthidakhlongkhlaew@gmail.com" target="_blank">kunthidakhlongkhlaew@gmail.com</a>
 
 ## About Me
 I'm a mobile app developer student passionate about becoming an indie Unity game developer. I specialize in **mobile app development** and **UX/UI design**, with a interest in **game development**. I really enjoy building creative solutions, from ideation and planning to designing user experiences that engage deeply.
