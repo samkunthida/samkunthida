@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](Banner01.jpg)
+![I am GitHub Readme Generator's creator](Banner02.jpg)
 
 # Sam Kunthida 👾 
 **`Developer | UX/UI Designer`**
