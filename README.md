@@ -30,7 +30,7 @@
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kunthidakk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunthida-khlongkhlaew-5b6706324) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunthida-khlongkhlaew-5b6706324) 
 
 📮
  <a href="mailto:kunthidakhlongkhlaew@gmail.com" target="_blank">kunthidakhlongkhlaew@gmail.com</a>
