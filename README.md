@@ -37,7 +37,8 @@
  <br/>
  
 <!--
-[![Discord](https://img.shields.io/badge/discord-7289da.svg?logo=discord&logoColor=white&color=7289da)](https://discord.gg/gpj7uj2z7t) 
+[![Discord](https://img.shields.io/badge/Discord-7289da.svg?logo=discord&logoColor=white&color=7289da)](https://discord.gg/)
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 -->
