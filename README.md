@@ -1,7 +1,7 @@
 # Sam Kunthida 👾 
 **`Developer | UX/UI Designer`**
 
-![I am GitHub Readme Generator's creator](Banner03.jpg)
+![I am GitHub Readme Generator's creator](/assets/images/Banner03.jpg)
 
 ## 🎸 About Me
 > I'm a software development student passionate about becoming an indie Unity game developer. I specialize in **mobile app development** and **UX/UI design**, with a interest in **game development**. I really enjoy building creative solutions, from ideation and planning to designing user experiences that engage deeply.
