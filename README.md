@@ -3,14 +3,17 @@
 
 ![I am GitHub Readme Generator's creator](Banner03.jpg)
 
-## About Me
-I'm a mobile app developer student passionate about becoming an indie Unity game developer. I specialize in **mobile app development** and **UX/UI design**, with a interest in **game development**. I really enjoy building creative solutions, from ideation and planning to designing user experiences that engage deeply.
+## 🎸 About Me
+> I'm a mobile app developer student passionate about becoming an indie Unity game developer. I specialize in **mobile app development** and **UX/UI design**, with a interest in **game development**. I really enjoy building creative solutions, from ideation and planning to designing user experiences that engage deeply.
 
-I’m especially passionate about game development and have a huge desire to craft games that capture someone's heart with my story, gameplay, and design details. My goal is to contribute meaningfully to the game industry by blending art, design, and technology together.
+> I’m especially passionate about game development and have a huge desire to craft games that capture someone's heart with my story, gameplay, and design details. My goal is to contribute meaningfully to the game industry by blending art, design, and technology together.
 
+### 🌱 Currently Learning
+ - [ ] To Strengthen Backend Skills in General
+ - [ ] To Create Community Map on Roblox Studio
+ - [ ] To Make 2D Game on Unity
 
-
-## Languages & Tools
+## 🧰 Languages & Tools
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
