@@ -31,11 +31,10 @@
 
 ## 🌐 Contacts
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunthida-khlongkhlaew-5b6706324) 
-
-📮
- <a href="mailto:kunthidakhlongkhlaew@gmail.com" target="_blank">kunthidakhlongkhlaew@gmail.com</a>
+ [![Discord](https://img.shields.io/badge/Gmail-e5e5e5.svg?logo=gmail&logoColor=white&color=fe4737)](mailto:kunthidakhlongkhlaew@gmail.com) 
  
 <!--
+[![Discord](https://img.shields.io/badge/discord-7289da.svg?logo=discord&logoColor=white&color=7289da)](https://discord.gg/gpj7uj2z7t) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 -->
