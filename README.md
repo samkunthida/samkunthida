@@ -8,6 +8,8 @@
 
 > I’m especially passionate about game development and have a huge desire to craft games that capture someone's heart with my story, gameplay, and design details. My goal is to contribute meaningfully to the game industry by blending art, design, and technology together.
 
+> 💡 *" I'd love to hear your advice. Feel free to ask about any of my projects, and you can share your thoughts. "*
+
 ### 🌱 Currently Learning
  - [ ] To Strengthen Backend Skills in General
  - [ ] To Create Community Map on Roblox Studio
