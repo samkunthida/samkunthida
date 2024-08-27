@@ -10,11 +10,14 @@
 > 
 >> 💡 *" I'd love to hear your advice. Feel free to ask about any of my projects, and you can share your thoughts. "*
 
-### 🌱 Currently Learning & Planning
- - [ ] To use MongoDB as default proficiently
+### 🛠️ Currently Working
+ - [ ] On SUT Relax Application (Final Project)
+
+### 🌱 Future Planning
+ - [ ] To use MongoDB as default proficiently : along react-native & Postman
  - [ ] To Strengthen Backend Skills in General
- - [ ] To Create Website with ReactJS
- - [ ] To Create Community Map on Roblox Studio
+ - [ ] To Create Website : with ReactJS & Next.js
+ - [ ] To Create Community Map on Roblox Studio : Explore scripting with Lua & 3D Modeling with Maya
  - [ ] To Make 2D Game on Unity
 
 ## 🧰 Languages & Tools
@@ -30,6 +33,9 @@
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
  <br/>
  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) 
+ ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+ ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+ ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 ## 🌐 Contacts
@@ -42,5 +48,6 @@
 [![Discord](https://img.shields.io/badge/Discord-7289da.svg?logo=discord&logoColor=white&color=7289da)](https://discord.gg/)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 -->
