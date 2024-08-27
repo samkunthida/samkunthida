@@ -10,7 +10,8 @@
 > 
 >> 💡 *" I'd love to hear your advice. Feel free to ask about any of my projects, and you can share your thoughts. "*
 
-### 🌱 Currently Learning
+### 🌱 Currently Learning & Planning
+ - [ ] To use MongoDB as default proficiently
  - [ ] To Strengthen Backend Skills in General
  - [ ] To Create Website with ReactJS
  - [ ] To Create Community Map on Roblox Studio
