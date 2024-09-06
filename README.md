@@ -14,7 +14,7 @@
  - [ ] On SUT Relax Application (Final Project)
 
 ### 🌱 Future Planning
- - [ ] To use MongoDB as default proficiently : along react-native & Postman
+ - [ ] To use MongoDB as default proficiently
  - [ ] To Strengthen Backend Skills in General
  - [ ] To Create Website : with ReactJS & Next.js
  - [ ] To Create Community Map on Roblox Studio : Explore scripting with Lua & 3D Modeling with Maya
