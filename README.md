@@ -1,24 +1,8 @@
-# Mhon Kunthida 👾 
-**`Developer | UX/UI Designer`**
-
-## 🎸 About Me
-> I'm a software development student passionate about becoming an indie Unity game developer. I specialize in **mobile app development** and **UX/UI design**. I really enjoy building creative solutions, from ideation and planning to designing user experiences that engage deeply.
-> 
-> I’m especially passionate about game development and have a huge desire to craft games that capture someone's heart with my story, gameplay, and design details. My goal is to contribute meaningfully to the game industry by blending art, design, and technology together.
-> 
->> 💡 *" I'd love to hear your advice. Feel free to ask about any of my projects, and you can share your thoughts. "*
-
-<!--
-Projects Lists
--->
+# Mhon Kunthida 👾🎸⚡
+**`React Native Development | UX/UI Figma Designe | Backend & MongoDB Schema Design`**
 
 ### 🛠️ Currently Working
- - **[50%]** On SUT Relax Application (Final Project)
-
-### 🌱 Future Planning
- - [ ] To Create Website : with ReactJS & Next.js
- - [ ] To Create Community Map on Roblox Studio : Explore scripting with Lua & 3D Modeling with Maya
- - [ ] To Make 2D Game on Unity
+ - **[50%]** On planning to improve & redesign SUT Relax
 
 ### 🖼️ UI Design (University Projects)
  - [GUITO Website](https://www.figma.com/proto/55wx9CCUzZ6ip5IP3dNwgG/GUITO-UX%2FUI-2nd-Version?node-id=1-3&starting-point-node-id=1%3A3&scaling=scale-down-width&content-scaling=fixed&t=Kt8GxP7VeblTPAqt-1)
@@ -26,6 +10,9 @@ Projects Lists
  - [A Puffé Mobile Application](https://www.figma.com/proto/PEHWoHrTGtcHm4yWfk0jA5/A-Puff%C3%A9-iOS-Application?node-id=1-3&node-type=frame&t=yX6uVVlAOp1ZGSWs-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A3)
  - [Smart Green House Mobile Application](https://www.figma.com/proto/bsx1C2QM0DhgsXYd22HAaS/GHT-GreenHouseTech?node-id=18-459&node-type=frame&t=LJL4AfBQNx8lzcnc-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=18%3A459)
  - [Kuntha's Website](https://www.figma.com/proto/phpA3YQVvUdDxH5sEfN3SG/Kunthida-s-Web?node-id=1-3&node-type=frame&t=LJL4AfBQNx8lzcnc-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A3) (on Progress)
+
+## 📱 Mobile Application
+ - SUT Relax Mobile Application, a mental health mobile application (Undone Final Project)
 
 ## 🧰 Languages & Tools
 
