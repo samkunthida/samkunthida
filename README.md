@@ -2,7 +2,7 @@
 **`React Native Development | UX/UI Figma Designe | Backend & MongoDB Schema Design`**
 
 ### 🛠️ Currently Working
- - **[50%]** On planning to improve & redesign SUT Relax
+ - On planning to improve & redesign SUT Relax
 
 ### 🖼️ UI Design (University Projects)
  - [GUITO Website](https://www.figma.com/proto/55wx9CCUzZ6ip5IP3dNwgG/GUITO-UX%2FUI-2nd-Version?node-id=1-3&starting-point-node-id=1%3A3&scaling=scale-down-width&content-scaling=fixed&t=Kt8GxP7VeblTPAqt-1)
@@ -14,18 +14,15 @@
 ## 📱 Mobile Application
  - SUT Relax Mobile Application, a mental health mobile application (Undone Final Project)
 
-## 🧰 Languages & Tools
+## 🧰 Languages & Tools (that I'd prefer to use)
 
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
  <br/>
  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
  <br/>
- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) 
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
